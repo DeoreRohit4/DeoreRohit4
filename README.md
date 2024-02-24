@@ -29,3 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deorerohit4&show_icons=true&locale=en" alt="deorerohit4" /></p>
 
+### Blog links
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
