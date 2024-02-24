@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Deore</h1>
 <h3 align="center">A Passionate Devops Engineer From India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deorerohit4" alt="deorerohit4" /></a> </p>
-
 - 🔭 I’m currently working on **Devops Projects**
 
 - 🌱 I’m currently learning **Devops Tools**
