@@ -31,8 +31,8 @@
 
 ### Blog links
 <!-- BLOGPOSTS:START -->
- - 🚀 [test blog cron job](https://rohitexplainstech.hashnode.dev/test-blog-cron-job)
  - 🚀 [Navigating AWS Cost Optimization: An In-Depth Guide &lpar;Day-12&rpar;](https://rohitexplainstech.hashnode.dev/navigating-aws-cost-optimization-an-in-depth-guide-day-12)
  - 🚀 [Unleashing the Power of AWS Lambda: A Simple Guide &lpar;Day-11&rpar;](https://rohitexplainstech.hashnode.dev/unleashing-the-power-of-aws-lambda-a-simple-guide-day-11)
  - 🚀 [Mastering Monitoring with AWS CloudWatch: An In-Depth Guide &lpar;Day-10&rpar;](https://rohitexplainstech.hashnode.dev/mastering-monitoring-with-aws-cloudwatch-an-in-depth-guide-day-10)
- - 🚀 [Streamlining Development with AWS DevOps Tools: An In-Depth Guide &lpar;Day-9&rpar;](https://rohitexplainstech.hashnode.dev/streamlining-development-with-aws-devops-tools-an-in-depth-guide-day-9)<!-- BLOGPOSTS:END -->
+ - 🚀 [Streamlining Development with AWS DevOps Tools: An In-Depth Guide &lpar;Day-9&rpar;](https://rohitexplainstech.hashnode.dev/streamlining-development-with-aws-devops-tools-an-in-depth-guide-day-9)
+ - 🚀 [Mastering AWS CloudFormation Templates: An In-Depth Guide &lpar;Day-8&rpar;](https://rohitexplainstech.hashnode.dev/mastering-aws-cloudformation-templates-an-in-depth-guide-day-8)<!-- BLOGPOSTS:END -->
