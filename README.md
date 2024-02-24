@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Devops Tools , Kubernetes and Jenkins**
 
-- 📝 I regularly write articles on Tech https://rohitexplainstech.hashnode.dev/
+- 📝 I regularly write articles on Tech [https://rohitexplainstech.hashnode.dev/]
 
 - 💬 Ask me about **AWS , Devops**
 
