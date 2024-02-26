@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Deore</h1>
 <h3 align="center">A Passionate Devops Engineer From India</h3>
 
-- 🔭 I’m currently working on **Devops Projects**
+- 🔭 I’m currently looking for **Devops Internship**
 
 - 🌱 I’m currently learning **Devops Tools**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AWS and Devops**
 
-- 📫 How to reach me **rjd3955@gmail.com**
+- 📫 How to reach me **rohitdeore114@gmail.com**
 
 - ⚡ Fun fact **I am Fast Learner**
 
