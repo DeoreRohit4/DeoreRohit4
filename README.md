@@ -31,8 +31,8 @@
 
 ### Blog links
 <!-- BLOGPOSTS:START -->
+ - 🚀 [CI/CD Processes on Azure DevOps for a Voting Application &lpar; CI Part &rpar;](https://rohitexplainstech.hashnode.dev/cicd-processes-on-azure-devops-for-a-voting-application-ci-part)
  - 🚀 [Robot Shop: An In-Depth Examination of Its Three-Tier Architecture, Eight Services, and Two Databases](https://rohitexplainstech.hashnode.dev/robot-shop-an-in-depth-examination-of-its-three-tier-architecture-eight-services-and-two-databases)
  - 🚀 [Navigating AWS Cost Optimization: An In-Depth Guide &lpar;Day-12&rpar;](https://rohitexplainstech.hashnode.dev/navigating-aws-cost-optimization-an-in-depth-guide-day-12)
  - 🚀 [Unleashing the Power of AWS Lambda: A Simple Guide &lpar;Day-11&rpar;](https://rohitexplainstech.hashnode.dev/unleashing-the-power-of-aws-lambda-a-simple-guide-day-11)
- - 🚀 [Mastering Monitoring with AWS CloudWatch: An In-Depth Guide &lpar;Day-10&rpar;](https://rohitexplainstech.hashnode.dev/mastering-monitoring-with-aws-cloudwatch-an-in-depth-guide-day-10)
- - 🚀 [Streamlining Development with AWS DevOps Tools: An In-Depth Guide &lpar;Day-9&rpar;](https://rohitexplainstech.hashnode.dev/streamlining-development-with-aws-devops-tools-an-in-depth-guide-day-9)<!-- BLOGPOSTS:END -->
+ - 🚀 [Mastering Monitoring with AWS CloudWatch: An In-Depth Guide &lpar;Day-10&rpar;](https://rohitexplainstech.hashnode.dev/mastering-monitoring-with-aws-cloudwatch-an-in-depth-guide-day-10)<!-- BLOGPOSTS:END -->
