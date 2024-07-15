@@ -31,8 +31,8 @@
 
 ### Blog links
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Azure Infrastructure Automation with Terraform &lpar; Part 2 &rpar;](https://rohitexplainstech.hashnode.dev/azure-infrastructure-automation-with-terraform-part-2)
  - 🚀 [Azure Infrastructure Automation with Terraform](https://rohitexplainstech.hashnode.dev/azure-infrastructure-automation-with-terraform)
  - 🚀 [Azure Virtual Network 4-Tier Design using Terraform](https://rohitexplainstech.hashnode.dev/azure-virtual-network-4-tier-design-using-terraform)
  - 🚀 [Understanding the Kubernetes kube-api-server: A Deep Dive](https://rohitexplainstech.hashnode.dev/understanding-the-kubernetes-kube-api-server-a-deep-dive)
- - 🚀 [CI/CD Processes on Azure DevOps for a Voting Application &lpar; CD Part &rpar;](https://rohitexplainstech.hashnode.dev/cicd-processes-on-azure-devops-for-a-voting-application-cd-part)
- - 🚀 [CI/CD Processes on Azure DevOps for a Voting Application &lpar; CI Part &rpar;](https://rohitexplainstech.hashnode.dev/cicd-processes-on-azure-devops-for-a-voting-application-ci-part)<!-- BLOGPOSTS:END -->
+ - 🚀 [CI/CD Processes on Azure DevOps for a Voting Application &lpar; CD Part &rpar;](https://rohitexplainstech.hashnode.dev/cicd-processes-on-azure-devops-for-a-voting-application-cd-part)<!-- BLOGPOSTS:END -->
