@@ -31,8 +31,8 @@
 
 ### Blog links
 <!-- BLOGPOSTS:START -->
+ - 🚀 [GO Web App  - CICD](https://rohitexplainstech.hashnode.dev/go-web-app-cicd)
+ - 🚀 [Azure Infrastructure Automation with Terraform &lpar; Part 4&rpar;](https://rohitexplainstech.hashnode.dev/azure-infrastructure-automation-with-terraform-part-4)
  - 🚀 [Azure Infrastructure Automation with Terraform &lpar; Part 3 &rpar;](https://rohitexplainstech.hashnode.dev/azure-infrastructure-automation-with-terraform-part-3)
  - 🚀 [Azure Infrastructure Automation with Terraform &lpar; Part 2 &rpar;](https://rohitexplainstech.hashnode.dev/azure-infrastructure-automation-with-terraform-part-2)
- - 🚀 [Azure Infrastructure Automation with Terraform](https://rohitexplainstech.hashnode.dev/azure-infrastructure-automation-with-terraform)
- - 🚀 [Azure Virtual Network 4-Tier Design using Terraform](https://rohitexplainstech.hashnode.dev/azure-virtual-network-4-tier-design-using-terraform)
- - 🚀 [Understanding the Kubernetes kube-api-server: A Deep Dive](https://rohitexplainstech.hashnode.dev/understanding-the-kubernetes-kube-api-server-a-deep-dive)<!-- BLOGPOSTS:END -->
+ - 🚀 [Azure Infrastructure Automation with Terraform](https://rohitexplainstech.hashnode.dev/azure-infrastructure-automation-with-terraform)<!-- BLOGPOSTS:END -->
