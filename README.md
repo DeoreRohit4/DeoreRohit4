@@ -31,7 +31,7 @@
 
 ### Blog links
 <!-- BLOGPOSTS:START -->
- - 🚀 [GO Web App  - CICD](https://rohitexplainstech.hashnode.dev/go-web-app-cicd)
+ - 🚀 [CI/CD Pipeline for Golang Application](https://rohitexplainstech.hashnode.dev/go-web-app-cicd)
  - 🚀 [Azure Infrastructure Automation with Terraform &lpar; Part 4&rpar;](https://rohitexplainstech.hashnode.dev/azure-infrastructure-automation-with-terraform-part-4)
  - 🚀 [Azure Infrastructure Automation with Terraform &lpar; Part 3 &rpar;](https://rohitexplainstech.hashnode.dev/azure-infrastructure-automation-with-terraform-part-3)
  - 🚀 [Azure Infrastructure Automation with Terraform &lpar; Part 2 &rpar;](https://rohitexplainstech.hashnode.dev/azure-infrastructure-automation-with-terraform-part-2)
