@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Rohit Deore</h1>
 <h3 align="center">A Passionate Devops Engineer From India</h3>
 
-- 🔭 I’m currently looking for **Devops Internship**
+- 🔭 I’m currently looking for **Devops Roles**
 
 - 🌱 I’m currently learning **Devops Tools**
 
 - 📝 I regularly write articles on [https://rohitexplainstech.hashnode.dev/](https://rohitexplainstech.hashnode.dev/)
 
-- 💬 Ask me about **AWS and Devops**
+- 💬 Ask me about **Cloud and Devops**
 
 - 📫 How to reach me **rohitdeore114@gmail.com**
 
